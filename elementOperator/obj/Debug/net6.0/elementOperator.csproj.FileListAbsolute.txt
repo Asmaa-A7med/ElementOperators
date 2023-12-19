@@ -1,0 +1,15 @@
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\bin\Debug\net6.0\elementOperator.exe
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\bin\Debug\net6.0\elementOperator.deps.json
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\bin\Debug\net6.0\elementOperator.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\bin\Debug\net6.0\elementOperator.dll
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\bin\Debug\net6.0\elementOperator.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\elementOperator.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\elementOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\elementOperator.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\elementOperator.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\elementOperator.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\elementOperator.dll
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\refint\elementOperator.dll
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\elementOperator.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\elementOperator.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\Linq\elementOperator\elementOperator\obj\Debug\net6.0\ref\elementOperator.dll
